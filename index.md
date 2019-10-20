@@ -25,20 +25,20 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-Single Narrow Gasping Lung            - [http://tiny.cc/Mt-Everest] </br>
-Darjeeling                            - [http://tiny.cc/darjeeling-of-the-min] </br>
-Andrew Eseibo                         - [http://tiny.cc/second-hand] </br>
-Riding the largest wave. Nazare       - [http://tiny.cc/nazar] </br>
-Manjookkaru, the seafarers of Malabar - [http://tiny.cc/manchukka] </br>
-Gander International Airport          - [http://tiny.cc/gande] </br>
-Taro                                  - [http://tiny.cc/taro] </br>
-Gandhi                                - [http://tiny.cc/Gandhi-Travel] </br>
-Jane Goodall                          - [http://tiny.cc/Jane-Goodall] </br>
-Gulmarg Dreamtrip                     - [https://www.youtube.com/watch?v=4eSjSG6hJaY] </br>
-Under an arctic sky                   - [http://tiny.cc/under-an-arctic-sk] </br>
-Tinariwen the band                    - [http://tiny.cc/tinariwe] </br>
-Transumanza in Italy                  - [http://tiny.cc/transumanza] </br>
-Out of Eden Walk                      - [http://tiny.cc/out-of-eden-wal] </br>
+[Single Narrow Gasping Lung](http://tiny.cc/Mt-Everest)
+[Darjeeling](http://tiny.cc/darjeeling-of-the-min)
+[Andrew Eseibo](http://tiny.cc/second-hand)
+[Riding the largest wave. Nazare]http://tiny.cc/nazar)
+[Manjookkaru, the seafarers of Malabar](http://tiny.cc/manchukka)
+[Gander International Airport](http://tiny.cc/gande)
+[Taro](http://tiny.cc/taro)
+[Gandhi](http://tiny.cc/Gandhi-Travel)
+[Jane Goodall](http://tiny.cc/Jane-Goodall)
+[Gulmarg Dreamtrip](https://www.youtube.com/watch?v=4eSjSG6hJaY)
+[Under an arctic sky](http://tiny.cc/under-an-arctic-sk)
+[Tinariwen the band](http://tiny.cc/tinariwe)
+[Transumanza in Italy](http://tiny.cc/transumanza)
+[Out of Eden Walk](http://tiny.cc/out-of-eden-wal)
 
 ### Support or Contact
 
