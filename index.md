@@ -25,13 +25,24 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanderersdiary/trails/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Single Narrow Gasping Lung            - [http://tiny.cc/Mt-Everest] </br>
+Darjeeling                            - [http://tiny.cc/darjeeling-of-the-min] </br>
+Andrew Eseibo                         - [http://tiny.cc/second-hand] </br>
+Riding the largest wave. Nazare       - [http://tiny.cc/nazar] </br>
+Manjookkaru, the seafarers of Malabar - [http://tiny.cc/manchukka] </br>
+Gander International Airport          - [http://tiny.cc/gande] </br>
+Taro                                  - [http://tiny.cc/taro] </br>
+Gandhi                                - [http://tiny.cc/Gandhi-Travel] </br>
+Jane Goodall                          - [http://tiny.cc/Jane-Goodall] </br>
+Gulmarg Dreamtrip                     - [https://www.youtube.com/watch?v=4eSjSG6hJaY] </br>
+Under an arctic sky                   - [http://tiny.cc/under-an-arctic-sk] </br>
+Tinariwen the band                    - [http://tiny.cc/tinariwe] </br>
+Transumanza in Italy                  - [http://tiny.cc/transumanza] </br>
+Out of Eden Walk                      - [http://tiny.cc/out-of-eden-wal] </br>
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
