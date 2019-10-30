@@ -8,7 +8,7 @@
 
 [Under an arctic sky](http://tiny.cc/under-an-arctic-sky)
 
-[Delacroix] (http://tiny.cc/Delacroix)
+[Delacroix](http://tiny.cc/Delacroix)
 
 [Gulmarg Dreamtrip](https://www.youtube.com/watch?v=4eSjSG6hJaY)
 
