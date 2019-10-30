@@ -8,6 +8,8 @@
 
 [Under an arctic sky](http://tiny.cc/under-an-arctic-sky)
 
+[Delacroix] (http://tiny.cc/Delacroix)
+
 [Gulmarg Dreamtrip](https://www.youtube.com/watch?v=4eSjSG6hJaY)
 
 [Jane Goodall](http://tiny.cc/Jane-Goodall)
