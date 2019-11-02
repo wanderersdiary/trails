@@ -1,3 +1,5 @@
+[Afghanistan's Kyrgyz Nomads](http://tiny.cc/kyrgyz-nomads)
+
 [American Girl In Italy](http://tiny.cc/american-girl-in-italy)
 
 [Out of Eden Walk](http://tiny.cc/out-of-eden-walk)
