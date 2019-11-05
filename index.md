@@ -1,3 +1,5 @@
+[Forgotten libraries of Sahara](http://tiny.cc/sahara-library)
+
 [Afghanistan's Kyrgyz Nomads](http://tiny.cc/kyrgyz-nomads)
 
 [American Girl In Italy](http://tiny.cc/american-girl-in-italy)
@@ -22,7 +24,7 @@
 
 [Gandhi](http://tiny.cc/Gandhi-Travel)
 
-[Manjookkaru, the seafarers of Malabar](http://tiny.cc/manchukkar)
+[Manjukkaru, the seafarers of Malabar](http://tiny.cc/manchukkar)
 
 [Riding the largest wave. Nazare](http://tiny.cc/nazare)
 
