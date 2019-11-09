@@ -1,4 +1,4 @@
-[Journeymen](http://tiny.cc/journeyman)
+[Wandergesellen or Journeymen](http://tiny.cc/journeyman)
 
 [Julia "Butterfly" Hill](http://tiny.cc/julia-butterfly-hill)
 
