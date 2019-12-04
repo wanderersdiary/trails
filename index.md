@@ -1,3 +1,5 @@
+[John Hinde's Postcards](http://tiny.cc/John-Hinde)
+
 [Wandergesellen or Journeymen](http://tiny.cc/journeyman)
 
 [Julia "Butterfly" Hill](http://tiny.cc/julia-butterfly-hill)
