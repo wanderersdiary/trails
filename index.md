@@ -1,3 +1,5 @@
+[Mumbai's Typographical Treasures](http://tiny.cc/Mumbai-Typography)
+
 [John Hinde's Postcards](http://tiny.cc/John-Hinde)
 
 [Wandergesellen or Journeymen](http://tiny.cc/journeyman)
