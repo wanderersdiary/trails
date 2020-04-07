@@ -1,3 +1,5 @@
+[Nalini] (http://www.1000wordsmag.com/arpita-shah/)
+
 [Mumbai's Typographical Treasures](http://tiny.cc/Mumbai-Typography)
 
 [John Hinde's Postcards](http://tiny.cc/John-Hinde)
