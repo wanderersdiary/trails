@@ -1,4 +1,4 @@
-[Nalini] (http://www.1000wordsmag.com/arpita-shah/)
+[Nalini](http://www.1000wordsmag.com/arpita-shah/)
 
 [Mumbai's Typographical Treasures](http://tiny.cc/Mumbai-Typography)
 
