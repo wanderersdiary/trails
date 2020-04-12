@@ -1,3 +1,5 @@
+[Anglo-Indian Easter](https://www.goyajournal.in/blog/around-the-anglo-indian-table-an-easter-story)
+
 [Nalini](http://www.1000wordsmag.com/arpita-shah/)
 
 [Mumbai's Typographical Treasures](http://tiny.cc/Mumbai-Typography)
